@@ -1,0 +1,1 @@
+# -Azure-Monitoring-Insights-Lab-Monitoramento-e-M-tricas
